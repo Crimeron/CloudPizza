@@ -1,0 +1,21 @@
+{
+    "name": "myproject/mypizzaweb",
+    "description": "My Pizza Website",
+    "type": "project",
+    "autoload": {
+      "psr-4": {
+        "App\\": "App/",
+        "Core\\": "Core/",
+        "Public\\": "Public/"
+      }
+    },
+    "require": {
+      "bramus/router": "~1.6"
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Tests\\": "tests/"
+      }
+    }
+  }
+  
