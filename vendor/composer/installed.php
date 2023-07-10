@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'myproject/mypizzaweb',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '9165cc5d40bc97c3689faf7a1a9689ae87d0604e',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'myproject/mypizzaweb' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '9165cc5d40bc97c3689faf7a1a9689ae87d0604e',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
