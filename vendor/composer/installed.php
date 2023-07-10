@@ -3,7 +3,7 @@
         'name' => 'myproject/mypizzaweb',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '9165cc5d40bc97c3689faf7a1a9689ae87d0604e',
+        'reference' => '232dc9d695e120188cbbe839b87d2b82d6ccfe07',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'myproject/mypizzaweb' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '9165cc5d40bc97c3689faf7a1a9689ae87d0604e',
+            'reference' => '232dc9d695e120188cbbe839b87d2b82d6ccfe07',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
