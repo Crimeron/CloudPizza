@@ -15,6 +15,7 @@ Technologies Used
 
 PHP
 jQuery
+AJAX
 HTML/CSS
 Bootstrap
 MySQL
