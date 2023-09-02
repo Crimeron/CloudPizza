@@ -2,7 +2,6 @@
 namespace Core;
 
 class View{
-    public $content;
     public function load($viewName, $data = [])
     {
         extract($data); // Veriyi değişkenlere ayır
@@ -15,8 +14,4 @@ class View{
     }
 
 
-    public function __destruct()
-    {
-        echo $this->content;
-    }
 }
